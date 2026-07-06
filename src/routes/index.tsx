@@ -67,7 +67,7 @@ function Landing() {
       <header className="absolute top-0 left-0 right-0 z-20">
         <div className="mx-auto max-w-7xl px-6 py-6 flex items-center justify-between">
           <a href="#top" className="flex items-center gap-2.5">
-            <img src="/logo-aria-transparente.png" alt="AriaBodas" className="h-14 w-auto" />
+            <img src="/logo-aria-transparente.png" alt="AriaBodas" className="h-20 w-auto" />
             <span className="font-serif text-2xl tracking-tight">
               Aria<span className="italic text-[color:var(--gold)]">Bodas</span>
             </span>
